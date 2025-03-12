@@ -151,7 +151,14 @@ public class BaseClassTest {
 		default:
 			break;
 		}
+		
 	}
+	public void gitgitbash() {
+		System.out.println("to add git and github");
+		System.out.println("to add gitbash");
+
+	}
+	
 	
 }
 	
